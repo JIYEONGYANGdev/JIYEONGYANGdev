@@ -1,13 +1,10 @@
 ### Hi there 👋
 [![JIYEONGYANGdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIYEONGYANGdev&show_icons=true)](https://github.com/JIYEONGYANGdev/github-readme-stats)
 
-
-- 🌱 I’m currently learning 
-- 📫 How to reach me: 
-
-
 Techs that I've used at least once
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
+  [![GitHub Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
+  [![Tech Blog Badge](http://img.shields.io/badge/-velog%20blog-lightgreen?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
+(https://camo.githubusercontent.com/59f34522112650b0eb7e9542af81c8129193d96002728d451069d002d30b17a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d7768697465)
 
 
 #E34F26
