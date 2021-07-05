@@ -2,6 +2,8 @@
 [![JIYEONGYANGdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIYEONGYANGdev&show_icons=true)](https://github.com/JIYEONGYANGdev/github-readme-stats)
 
 Techs that I've used at least once
+<br>
+</br>
   [![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
   [![Tech Blog Badge](http://img.shields.io/badge/-velog%20blog-lightgreen?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
 
