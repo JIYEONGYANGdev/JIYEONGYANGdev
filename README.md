@@ -5,7 +5,7 @@ Techs that I've used at least once
 <br>
 </br>
   [![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
-  [![Tech Blog Badge](http://img.shields.io/badge/-velog%20blog-lightgreen?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
+  [![Tech Blog Badge](https://velog.io/@sootulliyang_dev)
 
 
 <!--
