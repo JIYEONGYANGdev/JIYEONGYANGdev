@@ -7,7 +7,6 @@ Techs that I've used at least once
   [![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
   [![Tech Blog Badge](http://img.shields.io/badge/-velog%20blog-lightgreen?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
 
-#E34F26
 
 <!--
 **JIYEONGYANGdev/JIYEONGYANGdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
