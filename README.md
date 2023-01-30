@@ -1,24 +1,19 @@
-### Hi there 👋
-[![JIYEONGYANGdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIYEONGYANGdev&show_icons=true)](https://github.com/JIYEONGYANGdev/github-readme-stats)
+## Profiles
 
-Techs that I've used at least once
-<br>
-</br>
-  [![GitHub Badge](http://img.shields.io/badge/-Git%20Hub-black?style=flat-square&logo=github&link=https://github.com/JIYEONGYANGdev)](https://github.com/JIYEONGYANGdev)
-  [![Tech Blog Badge](http://img.shields.io/badge/-velog%20blog-lightgreen?style=flat-square&logo=github&link=https://velog.io/@sootulliyang_dev)](https://velog.io/@sootulliyang_dev)
+### JIYEONG YANG
 
+Web Front-End Developer
+<br/>
 
-<!--
-**JIYEONGYANGdev/JIYEONGYANGdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* usually : React, Next.js, TypeScript, React Query, Redux
+* interested in : Flutter, Three.js
 
-Here are some ideas to get you started:
+#### # SNS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/jiyeongyangdev/)](https://velog.io/@sootulliyang_dev)
+<br/>
+
+#### # Blogs
+
+[![Tech Blog Badge](http://img.shields.io/badge/-velog-lightgreen?style=flat-square&logo=velog&link=https://velog.io/@sootulliyang_dev)](https://velog.io/@sootulliyang_dev) [![Tech Blog Badge](http://img.shields.io/badge/-medium-black?style=flat-square&logo=medium&link=https://velog.io/@sootulliyang_dev)](https://medium.com/@sootulliyang.dev)
+[![Tech Blog Badge](http://img.shields.io/badge/-notion-white?style=flat-square&logo=notion&link=https://velog.io/@sootulliyang_dev)](https://medium.com/@sootulliyang.dev)
