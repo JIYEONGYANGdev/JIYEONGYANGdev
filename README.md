@@ -5,14 +5,5 @@
 Web Front-End Developer
 <br/>
 
-* usually : React, Next.js, TypeScript, React Query, Redux
+* usually : React, TypeScript, React Query, Redux, styled-components
 * interested in : Flutter, Three.js
-
-#### # SNS
-
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&link=https://www.linkedin.com/in/jiyeongyangdev/)](https://velog.io/@sootulliyang_dev)
-<br/>
-
-#### # Blogs
-
-[![Tech Blog Badge](http://img.shields.io/badge/-velog-lightgreen?style=flat-square&logo=velog&link=https://velog.io/@sootulliyang_dev)](https://velog.io/@sootulliyang_dev)
